@@ -20,6 +20,11 @@
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=issam-assiyadi&icon=0&color=5)](https://visitcount.itsvg.in)
+<div align="center">
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=issam-assiyadi&label=issam-assiyadi&color=10&icon=0&pretty=false" />
+</a>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
