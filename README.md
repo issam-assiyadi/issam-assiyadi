@@ -1,3 +1,1 @@
-<div align="center">
-0 & 1
-</div>
+At the end of the day, it's all about zeros and ones.
